@@ -1,0 +1,5 @@
+
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=87AE73&width=435&lines=Hello%2C+it's+Eunice+Moradillo;Computer+Engineering+Student" alt="Business Analyst"/>
+</a>
