@@ -6,8 +6,6 @@
 </samp>
 
  <b><h2 style="color: #fc6203">H E L L O &nbsp; , W E L C O M E !</h2> </b>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
-</samp></details>
 
 
 <a href="https://git.io/typing-svg">
