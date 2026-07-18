@@ -5,7 +5,7 @@
     <br>I'm a Computer Engineering student from Technological Institute of the Philippines.<br>
 </samp>
 
-![Header](./github-header-banner.png)
+![Header](./terminal.gif)
 ![Header](./github-header-banner.png)
 
 
