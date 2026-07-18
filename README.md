@@ -5,6 +5,12 @@
     <br>I'm a Computer Engineering student from Technological Institute of the Philippines.<br>
 </samp>
 
+
+
+![Header](./your-header-image-name.png)
+
+
+
  <b><h2 style="color: #fc6203">H E L L O &nbsp; , W E L C O M E !</h2> </b>
 
 
