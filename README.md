@@ -31,6 +31,5 @@ Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological In
 </ul>
 
 
-
-                                          ![Header](./terminal.gif)
+![Header](./terminal.gif)
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
