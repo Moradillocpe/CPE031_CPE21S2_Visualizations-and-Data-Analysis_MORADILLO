@@ -5,7 +5,6 @@
     <br>I'm a Computer Engineering student from Technological Institute of the Philippines.<br>
 </samp>
 
-![Header](./terminal.gif)
 ![Header](./github-header-banner.png)
 
 
@@ -31,4 +30,7 @@ Hi! I am Eunice E. Moradillo, a Computer Engineering student at Technological In
 <li>🎿 Hobbies other than coding : Playing online games, eating, reading and art stuff.</li>
 </ul>
 
+
+
+                                          ![Header](./terminal.gif)
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
